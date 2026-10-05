@@ -1,0 +1,254 @@
+{
+  "students": [
+    {
+      "name": "Kuldeep Dada",
+      "email": "Kuldeep@gmail.com",
+      "password": "kuldeep123",
+      "dob": "1999-06-08",
+      "contact": "9234455623",
+      "batch": "Morning",
+      "fees": "60000",
+      "gender": "Male",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuyHJcog4c7W7lFZGxxIp_reFo-K2INfyxDLtgrtcQ&s=10",
+      "pincode": "431001",
+      "area": "karvenagar",
+      "city": "Pune",
+      "id": "1",
+      "mobile": "9876543210",
+      "course": "Java Full Stack",
+      "fees ": "25000",
+      "confirmPassword": "kuldeep123"
+    },
+    {
+      "name": "Rushanki Didi",
+      "email": "rushanki@gmail.com",
+      "password": "rushanki123",
+      "dob": "1998-06-28",
+      "contact": "9876543212",
+      "batch": "Morning",
+      "fees": "60000",
+      "gender": "Female",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://marketplace.canva.com/xxy8Y/MAHAUoxxy8Y/1/tl/canva-illustration-of-a-professional-woman-in-a-suit-MAHAUoxxy8Y.png",
+      "pincode": "123456",
+      "area": "nanded city",
+      "city": "pune",
+      "id": "2",
+      "mobile": "9876543211",
+      "course": "React JS",
+      "confirmPassword": "rushanki123"
+    },
+    {
+      "name": "Hrishikesh Dada",
+      "email": "hrishikesh@gmail.com",
+      "password": "hrishikesh123",
+      "dob": "1999-07-07",
+      "contact": "9234455623",
+      "batch": "Morning",
+      "fees": "60000",
+      "gender": "Male",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuyHJcog4c7W7lFZGxxIp_reFo-K2INfyxDLtgrtcQ&s=10",
+      "pincode": "123456",
+      "area": "karvenagar",
+      "city": "pune",
+      "id": "3",
+      "mobile": "9876543212",
+      "course": "Python",
+      "confirmPassword": "hrishikesh123"
+    },
+    {
+      "name": "Aman sir",
+      "email": "aman@gmail.com",
+      "password": "aman123",
+      "dob": "2002-06-28",
+      "contact": "9234455623",
+      "batch": "Evening",
+      "fees": "60000",
+      "gender": "Male",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuyHJcog4c7W7lFZGxxIp_reFo-K2INfyxDLtgrtcQ&s=10",
+      "pincode": "123456",
+      "area": "karvenagar",
+      "city": "Pune",
+      "id": "4",
+      "mobile": "9876543213",
+      "course": "SQL",
+      "confirmPassword": "aman123"
+    },
+    {
+      "name": "Sanika",
+      "email": "sanika@gmail.com",
+      "password": "sanika123",
+      "dob": "2026-09-08",
+      "contact": "9234455623",
+      "batch": "Evening",
+      "fees": "60000",
+      "gender": "Female",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://marketplace.canva.com/xxy8Y/MAHAUoxxy8Y/1/tl/canva-illustration-of-a-professional-woman-in-a-suit-MAHAUoxxy8Y.png",
+      "pincode": "123456",
+      "area": "Satara",
+      "city": "Pune",
+      "id": "5",
+      "mobile": "9876543214",
+      "course": "Node JS",
+      "confirmPassword": "sanika123"
+    },
+    {
+      "name": "Akash dada",
+      "email": "akash@gmail.com",
+      "password": "akash@123",
+      "dob": "2001-02-23",
+      "contact": "1234455643",
+      "batch": "Evening",
+      "fees": "60000",
+      "gender": "Male",
+      "courses": [
+        "Java",
+        "Spring"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuyHJcog4c7W7lFZGxxIp_reFo-K2INfyxDLtgrtcQ&s=10",
+      "pincode": "123456",
+      "area": "karvenagar",
+      "city": "pune",
+      "mobile": "9209388725",
+      "course": "Java Full Stack",
+      "confirmPassword": "akash@123",
+      "terms": true,
+      "id": "yOUjHfNPUo0"
+    },
+    {
+      "name": "komal nathbhajan",
+      "email": "komal@gmail.com",
+      "password": "komal@123",
+      "dob": "2001-12-07",
+      "contact": "9234455623",
+      "batch": "Morning",
+      "fees": "30000",
+      "gender": "Female",
+      "courses": [
+        "React"
+      ],
+      "imageUrl": "https://marketplace.canva.com/xxy8Y/MAHAUoxxy8Y/1/tl/canva-illustration-of-a-professional-woman-in-a-suit-MAHAUoxxy8Y.png",
+      "pincode": "431001",
+      "area": "karvenagar",
+      "city": "Pune",
+      "mobile": "9209388725",
+      "course": "Python",
+      "confirmPassword": "1234",
+      "terms": true,
+      "id": "8lmitq87BxE"
+    },
+    {
+      "name": "Pranav sonwane",
+      "email": "pranav@gmail.com",
+      "password": "pranav123@",
+      "dob": "2026-09-10",
+      "contact": "9922242386",
+      "batch": "Morning",
+      "fees": "52",
+      "gender": "Male",
+      "courses": [
+        "Spring"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5dNvuNh5liNUzS5w7UUu11Qoz2m3pYpSd15UefChtg&s=10",
+      "pincode": "431001",
+      "area": "Shivajinagar",
+      "city": "Aurangabad ",
+      "id": "mJGdyG7QnSU"
+    },
+    {
+      "name": "pratiksha sonwane",
+      "email": "pratiksha2003@gmail.com",
+      "password": "prati@123",
+      "dob": "2003-04-05",
+      "contact": "9370768313",
+      "batch": "Evening",
+      "fees": "30000",
+      "gender": "Female",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://marketplace.canva.com/xxy8Y/MAHAUoxxy8Y/1/tl/canva-illustration-of-a-professional-woman-in-a-suit-MAHAUoxxy8Y.png",
+      "pincode": "431001",
+      "area": "Shivajinagar",
+      "city": "Aurangabad ",
+      "address": {
+        "pincode": "431001",
+        "area": "shivajinagar",
+        "city": "Aurangabad (M Corp.)"
+      },
+      "id": "hrYlkYxPuI8"
+    },
+    {
+      "name": "Ram Shinde",
+      "email": "ramshinde96@gmail.com",
+      "password": "ram@123",
+      "dob": "1996-07-30",
+      "contact": "1234455643",
+      "batch": "Afternoon",
+      "fees": "25000",
+      "gender": "Male",
+      "courses": [
+        "Spring"
+      ],
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtuyHJcog4c7W7lFZGxxIp_reFo-K2INfyxDLtgrtcQ&s=10",
+      "address": {
+        "pincode": "431001",
+        "area": "shivajinagar",
+        "city": "Aurangabad (M Corp.)"
+      },
+      "id": "LZWE7pBxDuQ"
+    },
+    {
+      "name": "Sudha",
+      "email": "sudha@gmail.com",
+      "password": "sudha2123",
+      "dob": "2026-09-02",
+      "contact": "1234455643",
+      "batch": "Morning",
+      "fees": "30000",
+      "gender": "Female",
+      "courses": [
+        "Java",
+        "Spring",
+        "React"
+      ],
+      "imageUrl": "https://marketplace.canva.com/xxy8Y/MAHAUoxxy8Y/1/tl/canva-illustration-of-a-professional-woman-in-a-suit-MAHAUoxxy8Y.png",
+      "pincode": "431001",
+      "area": "Shivajinagar",
+      "city": "Aurangabad ",
+      "address": {
+        "pincode": "123456",
+        "area": "pune",
+        "city": "pune"
+      },
+      "id": "SVHsKeavDOw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
