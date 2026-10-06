@@ -25,8 +25,6 @@ function Login() {
     }
 
 
-    // Login successful झाल्यावर Home page open होईल
-
   };
 
   return (
